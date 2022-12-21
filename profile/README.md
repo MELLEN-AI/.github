@@ -17,7 +17,7 @@
 🧙 **We hope:** <br>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intelligent coworkers with full of passion can join us!
 
-📮 Please feel free to **CONNECT** us with the title **[Apply_MELLEN.AI]** by sending to: yingmingpu@gmail.com
+📮 Please feel free to **CONTACT** us with the title **[Apply_MELLEN.AI]** by sending to: yingmingpu@gmail.com
 
 <!--
 
