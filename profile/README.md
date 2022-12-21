@@ -3,7 +3,7 @@
 <br>
 <p align="center">
 <img align="center" src="https://img.shields.io/badge/GraphLearning-70%25-blue" />
-<img align="center" src="https://img.shields.io/badge/NanoScience-20%25-green" />
+<img align="center" src="https://img.shields.io/badge/Chemistry-20%25-green" />
 <img align="center" src="https://img.shields.io/badge/ComputerVision-10%25-red" />
 </p>
 <br>
