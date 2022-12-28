@@ -9,13 +9,14 @@
 <br>
 
 🙋‍♀️ **A short introduction:** <br>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We foucs on Graph Learning and Intelligent Nanosynthesis.
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We foucs on Graph Learning and Intelligent Nanosynthesis. (current projects are <a href="https://github.com/MELLEN-AI">here</a>)
+
    
 🌈 **Contribution guidelines:** <br>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Norvel algorithms with excellent Proof!
    
 🧙 **We hope:** <br>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intelligent coworkers with full of passion can join us!
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intelligent coworkers with full of passion can join us! 
 
 📮 Please feel free to **CONTACT** us with the title **[Apply_MELLEN.AI]** by sending to: yingmingpu@gmail.com
 
