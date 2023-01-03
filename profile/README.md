@@ -10,11 +10,11 @@
 <br>
 <p align="center">
 <img align="center" src="https://img.shields.io/badge/Python->v3.6-skyblue.svg" />
-<img align="center" src="https://img.shields.io/badge/Django-v3.1.1-green.svg" />
-<img align="center" src="https://img.shields.io/badge/Vue.js-v3.1.0-deepgreen.svg" />
+<img align="center" src="https://img.shields.io/badge/Django-3.1.1-green.svg" />
+<img align="center" src="https://img.shields.io/badge/Vue.js-3.1.0-deepgreen.svg" />
 <img align="center" src="https://img.shields.io/badge/npm-all-red.svg" />
-<img align="center" src="https://img.shields.io/badge/Webpack-v5.71.0-blue.svg" />
-<img align="center" src="https://img.shields.io/badge/NginX-v1.23.3-gray.svg" />
+<img align="center" src="https://img.shields.io/badge/Webpack-5.71.0-blue.svg" />
+<img align="center" src="https://img.shields.io/badge/NginX-1.23.3-gray.svg" />
 </p>
 <br>
 
