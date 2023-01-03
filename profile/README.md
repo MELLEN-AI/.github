@@ -9,7 +9,7 @@
 </p>
 <br>
 <p align="center">
-<img align="center" src="https://img.shields.io/badge/Python->v3.6-skyblue.svg" />
+<img align="center" src="https://img.shields.io/badge/Python-3.7-skyblue.svg" />
 <img align="center" src="https://img.shields.io/badge/Django-3.1.1-green.svg" />
 <img align="center" src="https://img.shields.io/badge/Vue.js-3.1.0-deepgreen.svg" />
 <img align="center" src="https://img.shields.io/badge/npm-all-red.svg" />
