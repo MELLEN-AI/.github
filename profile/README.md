@@ -18,7 +18,7 @@
 </p>
 <br>
 
-🙋‍♀️ **A short introduction:** <br>
+🙋‍♀️ **A brief introduction:** <br>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We foucs on Graph Learning and Intelligent Nanosynthesis and developping AI-driven large and flexible platforms. 
 
    
@@ -27,9 +27,10 @@
 
 
 💻 **Current Leaderboard (engineering):** <br>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. ChemTower: An Intelligent Controlling System for Synthesis Management. （⭐️⭐️⭐️⭐️）<br>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. CentPrime: Full-lands cloud servers with decentralized communication. （⭐️⭐️⭐️）<br>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. ... (secret)
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. **ChemTower**: An Intelligent Controlling System for Synthesis Management. 🎈 <br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. **CentPrime**: Full-lands cloud servers with decentralized communication. 📖 <br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. **CentLinker**: A Link leads the world's organization. 🔗 <br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Join us to know more...
    
  
 🧙 **We hope:** <br>
@@ -37,8 +38,8 @@
 
 📮 Please feel free to **CONTACT** us with the title **[Apply_MELLEN.AI]** by sending to: yingmingpu@gmail.com
 
-<!--
 
+<!--
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
