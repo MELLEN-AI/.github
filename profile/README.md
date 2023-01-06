@@ -19,7 +19,7 @@
 <br>
 
 🙋‍♀️ **A brief introduction:** <br>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We foucs on Graph Learning and Intelligent Nanosynthesis and developping AI-driven large and flexible platforms. 
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We focus on Graph Learning and Intelligent Nanosynthesis and developing AI-driven large and flexible platforms. 
 
    
 🌈 **Contribution guidelines:** <br>
@@ -30,7 +30,7 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. **ChemTower**: An Intelligent Controlling System for Synthesis Management. 🎈 <br>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. **CentPrime**: Full-lands cloud servers with decentralized communication. 📖 <br>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. **CentLinker**: A Link leads the world's organization. 🔗 <br>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Join us to know more...
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Join us to LEARN more...
    
  
 🧙 **We hope:** <br>
