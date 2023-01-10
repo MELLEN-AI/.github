@@ -43,12 +43,13 @@
 ### 🧙 We hope
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intelligent coworkers with full of passion can join us! 
 
-📮 Please feel free to **CONTACT** us with the title **[Apply_MELLEN.AI]** by sending to: yingmingpu@gmail.com
+----
+
+📮 Please feel free to [**CONTACT**](yingmingpu@gmail.com) us with the title **[Apply_MELLEN.AI]**.
 
 
 <!--
 **Here are some ideas to get you started:**
-
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
