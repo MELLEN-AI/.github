@@ -1,3 +1,5 @@
+<p align="left" width=60> <img src="https://komarev.com/ghpvc/?username=MELLEN-AI&label=Profile%20views&color=0e75b6&style=flat" alt="MELLEN-AI" /> </p>
+
 <h1 align="center"><b>MELLEN-AI</b>: From a Brick to a Bridge 💎</h1>
 
 <br>
