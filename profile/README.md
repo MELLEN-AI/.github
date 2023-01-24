@@ -1,12 +1,18 @@
 <p align="left" width=60> <img src="https://komarev.com/ghpvc/?username=MELLEN-AI&label=Profile%20views&color=0e75b6&style=flat" alt="MELLEN-AI" /> </p>
 
-<h1 align="center"><b>MELLEN-AI</b>: From a Brick to a Bridge 💎</h1>
+<!-- <h1 align="center"><b>MELLEN-AI</b>: From a Brick to a Bridge 💎</h1> -->
+<br>
+<br>
+<p align="center">
+<img align="center" src="https://user-images.githubusercontent.com/62579469/214254836-59fd6e65-68de-4204-a99f-fcd5cb98153c.png" />
+<p/>
+<br>
 
 <br>
 <p align="center">
-<img align="center" src="https://img.shields.io/badge/GraphLearning-40%25-blue" />
-<img align="center" src="https://img.shields.io/badge/Chemistry-30%25-green" />
-<img align="center" src="https://img.shields.io/badge/ComputerVision-10%25-red" />
+<img align="center" src="https://img.shields.io/badge/ComputerScience-40%25-blue" />
+<img align="center" src="https://img.shields.io/badge/Chemistry-20%25-green" />
+<img align="center" src="https://img.shields.io/badge/Bioinformatics-20%25-red" />
 <img align="center" src="https://img.shields.io/badge/Engineering-20%25-purple" />
 </p>
 <!--
