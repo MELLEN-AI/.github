@@ -54,7 +54,11 @@
 ----
 
 📮 Please feel free to [**CONTACT**](yingmingpu@gmail.com) us with the title **[Apply_MELLEN.AI]**.
+<br><br><br>
 
+<p align="center">
+2023-2026 &copy; Copyright, Mellen, https://mellen-ai.github.io
+</p>
 
 <!--
 **Here are some ideas to get you started:**
