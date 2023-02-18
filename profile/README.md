@@ -4,9 +4,10 @@
 <br>
 <br>
 <p align="center">
-<img align="center" src="https://user-images.githubusercontent.com/62579469/214254836-59fd6e65-68de-4204-a99f-fcd5cb98153c.png" />
+<img align="center" width=300 src="https://user-images.githubusercontent.com/62579469/219854401-da4278e7-f158-4eb1-bba5-ca11e686f10c.png" />
 <p/>
 <br>
+
 
 <br>
 <p align="center">
