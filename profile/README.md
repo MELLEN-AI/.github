@@ -43,18 +43,15 @@
    
 
 ### 🏗 Engineering Leaderboard
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. **ChemTower**: An Intelligent Controlling System for Synthesis Management. 🎈 <br>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. **CentPrime**: Full-lands cloud servers with decentralized communication. 📖 <br>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. **CentLinker**: A Link leads the world's organization. 🔗 <br>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Join us to LEARN more...
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Join us to learn more...
    
  
 ### 🧙 We hope
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intelligent coworkers with full of passion can join us! 
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intelligent coworkers with full of passion are welcome to join us! 
 
 ----
 
-📮 Please feel free to [**CONTACT**](yingmingpu@gmail.com) us with the title **[Apply_MELLEN.AI]**.
+📮 Please feel free to [**CONTACT**](yingmingpu@gmail.com) us with the title **[Apply]**.
 <br><br><br>
 
 <p align="center">
