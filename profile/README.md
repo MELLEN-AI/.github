@@ -3,10 +3,6 @@
 <!-- <h1 align="center"><b>MELLEN-AI</b>: From a Brick to a Bridge 💎</h1> -->
 <br>
 <br>
-<p align="center">
-<img align="center" width=300 src="https://user-images.githubusercontent.com/62579469/219854401-da4278e7-f158-4eb1-bba5-ca11e686f10c.png" />
-<p/>
-<br>
 
 
 <br>
