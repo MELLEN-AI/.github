@@ -3,7 +3,9 @@
 <!-- <h1 align="center"><b>MELLEN-AI</b>: From a Brick to a Bridge 💎</h1> -->
 <br>
 <br>
+<!-- ![AIae2bcbc466236ba76ad1c05daab3d250](https://user-images.githubusercontent.com/62579469/229276570-0f855a63-1498-4f37-93c8-83ae5478c1ce.jpg)-->
 
+<img align="center" src="https://user-images.githubusercontent.com/62579469/229276570-0f855a63-1498-4f37-93c8-83ae5478c1ce.jpg" />
 
 <br>
 <p align="center">
